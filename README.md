@@ -1,5 +1,5 @@
 # car_neat_ai
-Training car agents to drive, stop at red lights, etc. with the help of NEAT AI
+Training car agents to drive, stop at red lights, etc. with the help of NEAT AI, feed-foward version
 
 This is a hobby project in development, for now it is possible to train the car to stay in the middle of the road while driving, stop when it senses a red light and choose a turn. 
  - The car sees the world through a series of rays that are fired from a certain place on the front of the car.
